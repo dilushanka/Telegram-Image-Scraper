@@ -1,9 +1,10 @@
-<p align="center">
-  Telegram Image Scrapper
-</p>
-<p align="center">
-</p>
 
+ # Telegram Image Scrapper
+<p align="center">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dilushanka/Telegram-Image-Scraper/main/img/telegram%20api.webp" width="auto" height="auto">
+</p>
 ---
 
 ## • API Setup
